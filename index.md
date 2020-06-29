@@ -11,7 +11,15 @@ Existing technology for addressing visual impairment is identifiable, expensive 
 
 Oko Haptics developed a pair of stereo vision smartglasses, which is coupled with a haptic belt. The device provides users with directional vibrotactile feedback, using optical stimuli, captured and processed by the on-board computer vision system.
 
-{% include videoPlayer.html %}
+## Recognition
+
+Oko Haptics received the [Baylis Medical Capstone Design Award 2019](https://uwaterloo.ca/capstone-design/baylis-medical-capstone-design-awards)
+
+## Demo
+
+{% include videoPlayer.html video_id=oko.demo %}
+
+[Link not working? Click here to view demo video on YouTube!](https://www.youtube.com/watch?v={{ oko.demo }})
 
 ## System Capabilities
 
@@ -20,8 +28,4 @@ Oko Haptics developed a pair of stereo vision smartglasses, which is coupled wit
 * Wireless smartglasses-belt interface
 * 10Hz feedback refresh rate
 * Processor heat load dissipation to sustain device surface temperatures below 30°C
-
-## Recognition
-
-Oko Haptics received the [Baylis Medical Capstone Design Award 2019](https://uwaterloo.ca/capstone-design/baylis-medical-capstone-design-awards)
 
