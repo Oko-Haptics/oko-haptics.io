@@ -1,3 +1,3 @@
 # Oko Haptics
 
-oko-haptics.io page repository
+oko-haptics.io webpage repository
