@@ -17,7 +17,7 @@ Oko Haptics received the [Baylis Medical Capstone Design Award 2019](https://uwa
 
 ## Demo
 
-{% include videoPlayer.html video_id: oko.demo %}
+{% include videoPlayer.html video_id=oko.demo %}
 
 [Link not working? Click here to view demo video on YouTube!](https://www.youtube.com/watch?v={{ oko.demo }})
 
