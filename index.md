@@ -6,6 +6,7 @@ Existing technology for addressing visual impairment is identifiable, expensive 
 * Hernando Castano
 * Jasjeet Singh Dhillon
 * Curtis Lambert
+* Faculty Advisor: Dr. Arash Arami
 
 # The Oko Product
 
