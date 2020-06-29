@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Oko Haptics
 description: Assistive Wearable Guide System for Addressing Visual Impairment
+header:
+  image: /assets/oko_haptics.png
