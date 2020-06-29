@@ -11,7 +11,7 @@ Existing technology for addressing visual impairment is identifiable, expensive 
 
 Oko Haptics developed a pair of stereo vision smartglasses, which is coupled with a haptic belt. The device provides users with directional vibrotactile feedback, using optical stimuli, captured and processed by the on-board computer vision system.
 
-{% include youtubePlayer.html id=cIew2jVZl3w %}
+{% include videoPlayer.html id=cIew2jVZl3w %}
 
 ## System Capabilities
 
