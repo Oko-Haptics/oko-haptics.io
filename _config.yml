@@ -3,3 +3,16 @@ title: Oko Haptics
 description: Assistive Wearable Guide System for Addressing Visual Impairment
 logo: /assets/oko_haptics.png
 show_downloads: "false"
+oko:
+  optics:
+    url: https://github.com/Oko-Haptics/oko-optics
+    description: Oko Haptics CV System
+    name: Oko-Haptics/oko-optics
+  haptics:
+    url: https://github.com/Oko-Haptics/oko-belt
+    description: Oko Haptics Belt Firmware
+    name: Oko-Haptics/oko-belt
+  multicam:
+    url: https://github.com/Oko-Haptics/oko-multicam
+    description: Oko Haptics RPi0 Stero Image Grabber
+    name: Oko-Haptics/oko-multicam
