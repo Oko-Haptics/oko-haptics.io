@@ -4,6 +4,7 @@ description: Assistive Wearable Guide System for Addressing Visual Impairment
 logo: /assets/oko_haptics.png
 show_downloads: "false"
 oko:
+  demo: cIew2jVZl3w
   optics:
     url: https://github.com/Oko-Haptics/oko-optics
     description: Oko Haptics CV System
